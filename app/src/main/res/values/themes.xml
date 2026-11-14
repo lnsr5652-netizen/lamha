@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Lamha" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/lamha_bg</item>
+    </style>
+    <color name="lamha_bg">#FF0D1113</color>
+    <color name="lamha_icon_bg">#FF0F766E</color>
+</resources>
